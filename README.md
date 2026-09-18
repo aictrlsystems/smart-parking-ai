@@ -96,6 +96,8 @@ This project is released as open-source software under the GNU Affero General Pu
 
 You may use, study, modify, and redistribute this software under the terms of the AGPL-3.0 license.
 
+This project uses Ultralytics YOLOv8 for object detection and the pretrained yolov8n.pt model. No modified or fine-tuned Ultralytics model weights are included in this repository.
+
 See the `LICENSE` file for the full license text.
 
 This software is provided without warranty of any kind. The author makes no guarantees regarding accuracy, reliability, safety, or fitness for any particular use.
