@@ -13,7 +13,7 @@ This public version includes minor implementation updates for repository use, in
 ## Features
 
 - Frame-by-frame object detection using YOLOv8n
-- Rule-based alerts based on car, pedestrian, and motorcycle counts
+- Rule-based alerts based on vehicle, pedestrian, and motorcycle counts
 - Bounding box overlays and alert banners on video output
 - Video frame processing using OpenCV
 - Tested on NVIDIA Jetson Orin Nano with JetPack 6.1
