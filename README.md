@@ -47,12 +47,12 @@ For NVIDIA Jetson Orin Nano deployment:
 
 ## Rule-Based Alerts
 
-- Alerts if the number of cars exceeds 60
+- Alerts if the number of vehicles exceeds 60
 - Alerts if more than 5 pedestrians are detected
 - Alerts if more than 3 motorcycles are present
-- Critical alert if both cars > 8 and people > 5
+- Critical alert if both vehicles > 8 and people > 5
 
-Note: These thresholds are for demonstration purposes and can be adjusted based on the specific needs or configuration of the parking lot.
+Note: In this implementation, cars, trucks, and buses are grouped together as vehicles for the rule-based counts. These thresholds are for demonstration purposes and can be adjusted based on the specific needs or configuration of the parking lot.
 
 ## Example Output
 
