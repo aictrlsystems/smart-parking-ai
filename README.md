@@ -29,6 +29,12 @@ For a regular laptop/desktop environment:
 - opencv-python
 - numpy
 
+  Install the standard Python dependencies from the project folder using:
+
+  ```bash
+  pip install -r requirements.txt
+  ```
+
 For NVIDIA Jetson Orin Nano deployment:
 
 - Python 3.10
@@ -38,12 +44,6 @@ For NVIDIA Jetson Orin Nano deployment:
 - opencv-python
 - numpy
 - onnxruntime-gpu==1.20.0, if using the broader Jetson vision-stack setup
-
-Install the standard Python dependencies from the project folder using:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Rule-Based Alerts
 
